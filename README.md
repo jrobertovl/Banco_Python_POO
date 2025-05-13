@@ -18,7 +18,7 @@ Este é um sistema bancário simples desenvolvido em Python utilizando os princ�
   - Abstração
   - Polimorfismo
   - Classes abstratas com ABC
-  - Métodos de classe e propriedades com @property
+  - Métodos de classe e propriedades com @property<br/>
 
   2. 📋 Funcionalidades
    <p>&nbsp;&nbsp;&nbsp;✅ Criar cliente (Pessoa Física)</p>
@@ -26,13 +26,13 @@ Este é um sistema bancário simples desenvolvido em Python utilizando os princ�
    <p>&nbsp;&nbsp;&nbsp;✅ Realizar depósito</p>
    <p>&nbsp;&nbsp;&nbsp;✅ Realizar saque com regras de limite</p>
    <p>&nbsp;&nbsp;&nbsp;✅ Exibir extrato com histórico de transações</p>
-   <p>&nbsp;&nbsp;&nbsp;✅ Listar contas existentes</p>
+   <p>&nbsp;&nbsp;&nbsp;✅ Listar contas existentes</p><br/>
 
-  4. 🚀 Possíveis Melhorias
+  3. 🚀 Possíveis Melhorias
   - Separação em múltiplos arquivos (modularização)
   - Armazenamento de dados com SQLite ou JSON
   - Interface gráfica com Tkinter ou PyQt
-  - Testes automatizados com unittest ou pytest
+  - Testes automatizados com unittest ou pytest<br/>
 
 ## 👨‍💻 Aluno
 
