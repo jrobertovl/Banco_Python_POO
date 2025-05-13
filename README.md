@@ -21,12 +21,12 @@ Este é um sistema bancário simples desenvolvido em Python utilizando os princ�
   - Métodos de classe e propriedades com @property
 
   2. 📋 Funcionalidades
-  ✅ Criar cliente (Pessoa Física)
-  ✅ Criar conta corrente vinculada a um cliente
-  ✅ Realizar depósito
-  ✅ Realizar saque com regras de limite
-  ✅ Exibir extrato com histórico de transações
-  ✅ Listar contas existentes
+  - ✅ Criar cliente (Pessoa Física)
+  - ✅ Criar conta corrente vinculada a um cliente
+  - ✅ Realizar depósito
+  - ✅ Realizar saque com regras de limite
+  - ✅ Exibir extrato com histórico de transações
+  - ✅ Listar contas existentes
 
   4. 🚀 Possíveis Melhorias
   - Separação em múltiplos arquivos (modularização)
